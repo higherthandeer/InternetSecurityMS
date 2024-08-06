@@ -1,0 +1,11 @@
+# ninja log v6
+163	222	1718555304764533022	CMakeFiles/netSecurity.dir/change.c.o	8f696e62689c5c60
+1	204	1718555304600530750	CMakeFiles/netSecurity.dir/main.c.o	aec4e1478328a12
+226	269	1718555304828533907	netSecurity	b1cf2c17294b1055
+8	108	1718444463584772074	CMakeFiles/netSecurity.dir/test.c.o	111645d3188f357c
+0	100	1718265607879978606	CMakeFiles/netSecurity.dir/main.cpp.o	b6fe6e1e8a7d94dd
+163	226	1718555304760532965	CMakeFiles/netSecurity.dir/actrie.c.o	67ce3ba1d6cd6bd1
+3	56	1718555607605648229	build.ninja	de3fc6bdc21a104c
+1	59	1718266877620861225	CMakeFiles/netSecurity.dir/log_queue.c.o	9b8b309a576bdc02
+1	163	1718555304600530750	CMakeFiles/netSecurity.dir/data_queue.c.o	47b1b1ec26fc1c45
+1	163	1718555304600530750	CMakeFiles/netSecurity.dir/http_hash.c.o	3dee8a2c56f6f0e8

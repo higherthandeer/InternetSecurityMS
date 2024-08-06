@@ -1,0 +1,3 @@
+/home/higherthandeer/CLionProjects/netSecurity/cmake-build-debug/CMakeFiles/netSecurity.dir
+/home/higherthandeer/CLionProjects/netSecurity/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/higherthandeer/CLionProjects/netSecurity/cmake-build-debug/CMakeFiles/rebuild_cache.dir
